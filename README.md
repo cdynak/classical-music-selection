@@ -24,6 +24,10 @@
 * https://listen.tidal.com/album/77613060
 * https://open.spotify.com/album/1U7BErPHxIgtzsq05Wfj5E
 
+### Gyorgy Cziffra / Schumann: Carnaval & Carnival Of Vienna
+* https://listen.tidal.com/album/92722468
+* https://open.spotify.com/album/4abXj22paoOlUhOSkQGjXj
+
 ### Ronald Smith / Mussorgsky: Pictures at an Exhibition - Skriabin: Sonata No. 9 "The Black Mass" - Balakirev: Sonata in B-Flat Minor
 * https://listen.tidal.com/album/56222008
 * https://open.spotify.com/album/6o31bfHXDiR1I8uHLJopiy
